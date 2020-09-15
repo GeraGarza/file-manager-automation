@@ -5,6 +5,9 @@ import os
 import json
 import time
 
+# ON LOCAL PORT http://localhost:131/
+# pythonw main.py  to run in background
+
 folder_destination = "C:/Users/Gera/Videos"
 ext = ".mp4"
 changed_name = f"video_"
